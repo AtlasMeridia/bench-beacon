@@ -1,5 +1,5 @@
 ---
-last_updated: 2026-05-05
+last_updated: 2026-05-07
 ---
 
 # Publishing Rules
@@ -23,14 +23,14 @@ Only cleaned, attendee-safe artifacts get committed and published.
 ## Publishable by default after review
 
 - `README.md`
-- `sessions/*/*/notes.md`
-- `sessions/*/*/followups.md`
+- `sessions/*/notes.md`
+- `sessions/*/followups.md`
 - `ops/*.md`
 
 ## Conditional
 
-- `sessions/*/*/prep.md` — publish only if it contains no private attendee context.
-- `sessions/*/*/live-doc.md` — publish only if cleaned. The live doc is usually messy by design.
+- `sessions/*/prep.md` — publish only if it contains no private attendee context.
+- `sessions/*/live-doc.md` — publish only if cleaned. The live doc is usually messy by design.
 - Links to Google Docs, Slack, Drive, or Meet — publish only if the linked surface is intentionally public or permission-safe.
 
 ## Session publish checklist

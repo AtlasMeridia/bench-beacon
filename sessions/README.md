@@ -1,5 +1,5 @@
 ---
-last_updated: 2026-05-05
+last_updated: 2026-05-07
 ---
 
 # Session Structure
@@ -10,9 +10,9 @@ prep → live working doc → AI notes → followups → next session
 
 ## Per-session folders
 
-Each session gets its own folder under either `bench/` or `beacon/`:
+Each session gets its own dated folder directly under `sessions/`:
 
-`{bench|beacon}/YYYY-MM-DD_short-topic-slug/`
+`YYYY-MM-DD_short-topic-slug/`
 
 Inside:
 
@@ -23,10 +23,9 @@ Inside:
 
 ## Naming
 
-- Bench: `bench/YYYY-MM-DD_topic`
-  - Example: `bench/2026-05-13_claude-code-vault-prep`
-- Beacon: `beacon/YYYY-MM-DD_topic`
-  - Example: `beacon/2026-05-15_claude-4-7-implications`
+- Use `YYYY-MM-DD_topic` for all sessions.
+- Example: `2026-05-13_claude-code-vault-prep`
+- If the Bench/Beacon distinction matters for a session, keep it in the session title, frontmatter, or notes — not in the folder hierarchy.
 
 ## Defaults
 

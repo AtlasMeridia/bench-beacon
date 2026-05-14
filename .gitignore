@@ -1,35 +1,21 @@
-# Private development / internal state
+AGENTS.md
 _dev/
 
-# Obsidian local state
-.obsidian/
-.trash/
+# Private source material and raw working notes.
+**/chat-log.md
+**/*Scratch*.md
+**/transcript*
+**/Transcript*
+**/recording*
+**/Recording*
+!ops/recording-disclosure.md
+**/*.mp3
+**/*.mp4
+**/*.m4a
+**/*.wav
+**/*.mov
 
-# macOS / editor noise
+# Local/editor noise.
 .DS_Store
-*.swp
-*.swo
-
-# Environment and deployment state
-.env
-.env.*
-.vercel/
-node_modules/
-.quartz-cache/
-.cache/
-dist/
-build/
-
-# Raw session media and transcripts
-recordings/
-raw/
-*.mp4
-*.mov
-*.m4a
-*.mp3
-*.wav
-*.zoom
-*.vtt
-*.srt
-*.otter.ai.txt
-*.transcript.txt
+.obsidian/workspace*
+.obsidian/cache/

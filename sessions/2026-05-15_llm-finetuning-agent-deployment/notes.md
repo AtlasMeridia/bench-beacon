@@ -85,6 +85,12 @@ A consent boundary came up in the content discussion. Bench & Beacon can become 
 
 The useful version: invite people to talk about AI experiments, tell them what is being recorded, and publish only cleaned/public-safe material.
 
+### 6. Turn business ideas into one-page evaluated artifacts
+
+Late in the session, the discussion shifted from choosing a single business idea to building a repeatable way to evaluate many of them. The working concept was a lightweight business-discovery tool: collect rough ideas, notes, screenshots, and criteria; ask AI to organize them; then produce a one-page brief covering the idea, opportunity, risks, market whitespace, and next test.
+
+Kenny connected this to a recent workflow that turned phone photos of handwritten notes into structured markdown and then into an HTML page. The useful pattern is not the specific page format. It is the agent loop: capture messy source material, convert it into a readable artifact, publish or share it, and use the artifact to decide what to test next.
+
 ## Tools and References
 
 Shared in chat:
@@ -106,6 +112,7 @@ Discussed:
 - Claude Code / terminal-based agent work;
 - Codex-assisted weekly review;
 - here.now as an agent-first publishing surface;
+- OCR / image-to-markdown / HTML one-page briefs for rough ideas;
 - GitHub repos as portfolio and agent context;
 - LinkedIn / YouTube as possible output channels.
 
@@ -117,6 +124,7 @@ Discussed:
 - What is the first public/professional post that is useful without overexposing work context?
 - Should Bench & Beacon become a public recording/content surface, or stay primarily a private working seminar for now?
 - Which business ideas deserve actual research: family-tree tooling, fridge/pantry-photo workflows, business discovery tools, content/consulting, or something else?
+- What should a one-page business-discovery brief always include: market scan, SWOT, buyer, distribution path, first test, or technical build plan?
 
 ## Format Notes
 

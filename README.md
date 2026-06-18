@@ -1,10 +1,11 @@
 ---
-last_updated: 2026-05-05
+last_updated: 2026-05-28
 ---
-
 # Bench & Beacon
 
 Bench & Beacon is a weekly seminar pairing under the Atlas Meridia umbrella.
+It lives under `VENTURE/business-dev/` as a subordinate practice and audience
+surface for practical business-development work.
 
 - **Bench** — Wednesday 3pm–5pm. Office Hours format: practitioner, hands-on, workflow-level.
 - **Beacon** — Friday 1pm–3pm. Seminar format: frontier developments, new tools, and SOTA filtered through practical value.

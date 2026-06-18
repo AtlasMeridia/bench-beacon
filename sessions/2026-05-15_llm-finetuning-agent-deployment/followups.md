@@ -15,12 +15,14 @@ visibility: review-required
 - [ ] Keep a project board with project name, purpose, tools/platforms, current status, and next step.
 - [ ] Turn at least one current AI/workflow experiment into a GitHub repo or private repo with a clear README.
 - [ ] Draft one LinkedIn-style post about a concrete AI workflow lesson, not a generic AI opinion.
+- [ ] Choose one rough business idea and convert it into a one-page brief with market, risks, next test, and build path.
 
 ## Kenny
 
 - [ ] Send a concise explanation of LoRA vs. fine-tuning vs. distillation in practical terms.
 - [ ] Suggest a starter local-model inventory template for the attendee’s project board.
 - [ ] Decide whether to recommend Unsloth, RunPod, or plain hosted-model workflows as the next hands-on exercise.
+- [ ] Draft a reusable one-page business-discovery brief template for ideas captured from notes, screenshots, or session discussion.
 - [ ] Prepare a consent-safe framing if Bench & Beacon sessions might become public media later.
 - [ ] Consider using this session as a template for repeat-attendee progress notes: hardware state, workflow state, business/content state, next experiment.
 
@@ -30,6 +32,7 @@ visibility: review-required
 - [ ] Pick one project to make repo-shaped.
 - [ ] Compare local model results against one cloud/frontier baseline.
 - [ ] Choose one business/content output for the week: LinkedIn post, short video outline, GitHub README, or public demo page.
+- [ ] Test whether an agent can turn messy captured notes into a shareable HTML or markdown business brief in one pass.
 - [ ] Revisit whether the group is pursuing consulting, content, product experiments, or all three in sequence.
 
 ## Review Before Publication

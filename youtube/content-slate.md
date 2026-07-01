@@ -1,9 +1,8 @@
 ---
-last_updated: 2026-06-17
+last_updated: 2026-06-26
 status: working
 visibility: draft
 ---
-
 # Content Slate
 
 The channel should present real Bench & Beacon projects as they develop. It is a chronological archive of live work, not a course catalog.
@@ -46,7 +45,7 @@ By the end, the viewer understands why the input and curation loop matters more 
 
 Artifact to show:
 
-Bench & Beacon operating loop: walk-talk -> notes -> AI synthesis -> deck -> public artifact -> followup.
+Bench & Beacon operating loop: walk-talk -> notes -> AI synthesis -> iA Presenter Markdown deck -> public artifact -> followup.
 
 CTA:
 
@@ -57,7 +56,7 @@ If you are trying to turn scattered inputs into a weekly briefing or working kno
 | Week | Project | Working title | Artifact |
 |---|---|---|---|
 | 1 | Flywheel talk | The model was never the bottleneck | Bench & Beacon operating loop |
-| 2 | Ben B demo | I let my AI agent run the research live | Hear That Now style page or research packet |
+| 2 | BenBe demo | I let my AI agent run the research live | Hear That Now style page or research packet |
 | 3 | Voice workflow | How I think out loud and let AI do the typing | Walk-talk to structured note |
 | 4 | Weekly briefing | Consume smarter, not more | Weekly briefing automation |
 | 5 | Source of truth | Why your AI needs a source it cannot edit | Read-only vault pattern |

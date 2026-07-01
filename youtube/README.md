@@ -3,12 +3,7 @@ last_updated: 2026-06-17
 status: working
 visibility: draft
 ---
-
 # Bench & Beacon YouTube Project
-
-This folder turns the three model research passes into a working project plan for launching the Bench & Beacon YouTube channel.
-
-The original model outputs are preserved under `research/`. Treat the files at this level as the canonical working layer.
 
 ## Canonical Direction
 
@@ -31,12 +26,6 @@ Default format:
 - One concrete artifact shown on screen.
 - Practical CTA tied to the personalized AI stack offer.
 
-First episode:
-
-`The model was never the bottleneck`
-
-The episode should show the Bench & Beacon flywheel: walk-talk, notes, AI synthesis, presentation, public artifact, followup.
-
 ## Folder Map
 
 - `launch-plan.md` - phased checklist from setup through first public video.
@@ -45,7 +34,7 @@ The episode should show the Bench & Beacon flywheel: walk-talk, notes, AI synthe
 - `templates.md` - copy/paste-ready channel, episode, metadata, and production templates.
 - `research/` - original GPT, Claude, and Grok outputs.
 
-## Research Synthesis
+## Production Themes
 
 Where all three models agree:
 
@@ -53,13 +42,6 @@ Where all three models agree:
 - The first real bottleneck is setup tax: templates, folder structure, thumbnail system, recording workflow, and rehearsal.
 - The first video should be based on the flywheel thesis or weekly briefing automation.
 - Video should lead the weekly content system, not sit beside it.
-- Do not buy gear for launch.
-
-Resolved conflicts:
-
-- Treat Claude's gear inventory as the strongest version, but verify physical availability before planning a shoot.
-- Use real face, real footage, screen recordings, and the Bench & Beacon mark. Do not use AI headshots as the core channel identity.
-- Keep robotica, character libraries, and unrelated generative mascots out of the Bench & Beacon brand.
 - Use a clean lecture for the first flywheel video. Use live-capture plus trim for Ben B demos after the pilot.
 - Put automation behind the cadence. Do not wire BenBe, Buffer, or Shorts automation before one strong public episode exists.
 

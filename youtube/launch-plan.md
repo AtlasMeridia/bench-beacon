@@ -3,7 +3,6 @@ last_updated: 2026-06-17
 status: working
 visibility: draft
 ---
-
 # YouTube Launch Plan
 
 Goal: create a repeatable weekly video machine for Bench & Beacon, then publish the first strong public episode.

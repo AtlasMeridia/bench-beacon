@@ -1,5 +1,5 @@
 ---
-last_updated: 2026-06-17
+last_updated: 2026-06-26
 status: working
 visibility: draft
 ---
@@ -46,12 +46,25 @@ By the end, the viewer can [do/understand/see specific outcome].
 [One action tied to the current offer.]
 
 ## Needed Assets
-- [Deck]
+- [iA Presenter Markdown deck]
 - [Screen capture]
 - [On-camera clip]
 - [B-roll]
 - [Thumbnail]
 ```
+
+## iA Presenter Deck Source
+
+```text
+01-deck/
+  deck.md       # Presenter-flavored Markdown: script plus visible slide cues
+  assets/       # local images, video, screenshots, charts
+  sources.md    # source links / claims / permissions notes
+```
+
+Deck rule: the Markdown is the durable source; `.iapresenter`, PDF, image,
+HTML, and video exports are derivatives. Keep spoken material as normal
+paragraphs and indent only the lines that should appear on-slide.
 
 ## Video Structure
 
@@ -131,6 +144,9 @@ episodes/
   001_model-bottleneck/
     00-brief/
     01-deck/
+      deck.md
+      assets/
+      sources.md
     02-recordings/
     03-screen/
     04-edit/

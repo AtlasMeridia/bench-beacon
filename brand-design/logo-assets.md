@@ -1,27 +1,34 @@
 ---
-last_updated: 2026-06-17
+last_updated: 2026-06-30
 ---
-# Logo Assets
+# Brand Assets
 
-Bench & Beacon logo assets live outside the vault at:
+Bench & Beacon brand assets now live in the local brand workspace:
 
-`/Users/atlas/AudioVisual/Branding/Bench-And-Beacon/`
+`/Users/atlas/Projects/bench-beacon/brand`
 
-Selected mark: a simple telescope crossed with a regular wrench, black silhouette on white/transparent background.
+Treat `brand/system/` and `brand/assets/` as active source. Treat
+`brand/archive/` as provenance only unless a file is deliberately promoted.
 
-## Primary Files
+## Active Exports
 
-- Clean vector SVG: `/Users/atlas/AudioVisual/Branding/Bench-And-Beacon/openai-logo-simple-telescope-wrench-1-clean.svg`
-- Transparent master PNG: `/Users/atlas/AudioVisual/Branding/Bench-And-Beacon/openai-logo-simple-telescope-wrench-1-clean-transparent.png`
-- Original selected raster: `/Users/atlas/AudioVisual/Branding/Bench-And-Beacon/openai-logo-simple-telescope-wrench-1.png`
-- White-background preview: `/Users/atlas/AudioVisual/Branding/Bench-And-Beacon/openai-logo-simple-telescope-wrench-1-clean-preview-white.png`
-- SVG render preview: `/Users/atlas/AudioVisual/Branding/Bench-And-Beacon/previews/openai-logo-simple-telescope-wrench-1-clean-svg-render.png`
-- Small-size preview: `/Users/atlas/AudioVisual/Branding/Bench-And-Beacon/previews/openai-logo-simple-telescope-wrench-1-small-size-preview.png`
+- Wordmark: `~/Projects/bench-beacon/brand/assets/logos/exports/logo-wordmark.svg`
+- Monogram: `~/Projects/bench-beacon/brand/assets/logos/exports/logo-monogram.svg`
+- Seal / telescope-wrench mark:
+  `~/Projects/bench-beacon/brand/assets/marks/exports/seal-telescope-wrench.png`
+- Standalone telescope-wrench mark:
+  `~/Projects/bench-beacon/brand/assets/marks/exports/telescope-wrench-logo.png`
 
-## Export Set
+## Active Design System
 
-Sized PNG and favicon exports are in:
+- CSS tokens/type/modes:
+  `~/Projects/bench-beacon/brand/system/css/colors_and_type.css`
+- Web UI kit: `~/Projects/bench-beacon/brand/system/ui-kits/web/`
+- App UI kit: `~/Projects/bench-beacon/brand/system/ui-kits/app/`
+- Templates: `~/Projects/bench-beacon/brand/system/templates/`
 
-`/Users/atlas/AudioVisual/Branding/Bench-And-Beacon/openai-logo-simple-telescope-wrench-1-exports/`
+## Use Rule
 
-Included sizes: `1024`, `512`, `256`, `192`, `180`, `128`, `64`, `32`, `16`, plus `favicon.ico`.
+Deploy repos may vendor the active CSS file as-is and copy reviewed exports.
+Do not build production surfaces from archived bundle files or the older
+`/Users/atlas/AudioVisual/Branding/Bench-And-Beacon/` cache.

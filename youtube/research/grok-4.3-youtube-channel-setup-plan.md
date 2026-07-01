@@ -10,7 +10,7 @@
 
 ## Executive Summary
 
-The drive for weekly videos comes primarily from recent walk-talk sessions (especially 2026-06-15-walk-1), where the **Friday video presentation was designated as the main artifact**, with Tuesday/Thursday written posts as derivatives. This aligns with:
+The drive for weekly videos comes primarily from recent walk-talk sessions (especially 2026-06-15 / walk 1), where the **Friday video presentation was designated as the main artifact**, with Tuesday/Thursday written posts as derivatives. This aligns with:
 
 - Bench & Beacon live projects roadmap
 - The three-year publishing bet (Post-Craft)
@@ -30,7 +30,7 @@ All recommendations respect existing constraints: use only gear already owned (i
 
 ## Context from Walk-Talk & Current Priorities
 
-Key source: `COUNSEL/walk-talk/2026-06-15-walk-1/summary.md`
+Key source: `COUNSEL/walk-talk/2026-06-15/summary.md#Walk 1`
 
 - "the video presentation is the main labor and the two written posts are derivatives of it."
 - "This Friday is a simpler warm-up via IA Presenter."
@@ -135,7 +135,7 @@ This is not a generic YouTube channel. It is the public surface of the Bench & B
 ### 4. Content & Conceptual Assets
 
 - `COUNSEL/walk-talk/` (transcripts + structured summaries)
-- `PARSE/walk-talk/walk-seeds.md` + analysis
+- `PARSE/walk-talk/walk-seeds/README.md` + analysis
 - `CRAFT/Post-Craft/posts/material/durable-ai-observations.md`
 - `VENTURE/business-dev/bench-beacon/Offerings-note.md`, sessions/, brand-design/
 - Post-Craft voice/style guides (`post-style.md`, `publishing.md`)
@@ -313,7 +313,7 @@ These findings only strengthen the feasibility of high-production-value output u
 
 ## References (Key Paths)
 
-- `COUNSEL/walk-talk/2026-06-15-walk-1/summary.md`
+- `COUNSEL/walk-talk/2026-06-15/summary.md#Walk 1`
 - `VENTURE/business-dev/bench-beacon/Offerings-note.md`
 - `CRAFT/Post-Craft/process/cross-posting.md`
 - `CRAFT/Post-Craft/posts/material/durable-ai-observations.md`

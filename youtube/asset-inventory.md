@@ -1,5 +1,5 @@
 ---
-last_updated: 2026-06-17
+last_updated: 2026-07-01
 status: working
 visibility: draft
 ---
@@ -49,7 +49,7 @@ Use whichever capture path is ready fastest:
 ### Content Source Material
 
 - `landmarks.md` for the live projects roadmap.
-- `Offerings-note.md` for the current offer frame.
+- `offer/offerings.md` for the current offer frame.
 - Session notes for concrete examples.
 - Walk-talk summaries for thesis formation, after public-safety review.
 

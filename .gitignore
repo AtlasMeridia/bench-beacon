@@ -1,6 +1,9 @@
 AGENTS.md
 CLAUDE.md
+BB-NOW.md
 _dev/
+_archive/
+BenBe-Knowledge-Base/
 
 # Private source material and raw working notes.
 **/chat-log.md
@@ -20,3 +23,4 @@ _dev/
 .DS_Store
 .obsidian/workspace*
 .obsidian/cache/
+.vercel

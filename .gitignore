@@ -5,6 +5,15 @@ _dev/
 _archive/
 BenBe-Knowledge-Base/
 
+# Private product IP (visibility: private in frontmatter).
+evaluation/
+
+# Sessions pending attendee-safe review — delete a line once its
+# notes/followups pass review, then commit them.
+sessions/2026-06-17_ai-workbench-and-codex-setup/
+sessions/2026-06-24_image-prompting-and-offer-surface/
+sessions/2026-06-26_business-plan-and-ai-implementation/
+
 # Private source material and raw working notes.
 **/chat-log.md
 **/*Scratch*.md

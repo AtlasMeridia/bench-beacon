@@ -65,7 +65,7 @@ warm-lead/value-giving motion, not anonymous public exposure. Source:
 [[COUNSEL/walk-talk/2026-06-19/summary]].
 
 2026-06-20 routing: the BenBe wedge now has a public-safe spec at
-[[VENTURE/business-dev/bench-beacon/offer/benbe-public-agent-spec|benbe-public-agent-spec]]
+[[VENTURE/bench-beacon/offer/benbe-public-agent-spec|benbe-public-agent-spec]]
 and a private demo/outreach handoff at
 `_dev/demos/2026-06-20_benbe-sba-acquisition-demo-and-outreach.md`. The next
 commercial test is one 10-minute SBA acquisition call, one cleaned follow-up

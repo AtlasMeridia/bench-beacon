@@ -137,7 +137,7 @@ This is not a generic YouTube channel. It is the public surface of the Bench & B
 - `COUNSEL/walk-talk/` (transcripts + structured summaries)
 - `PARSE/walk-talk/walk-seeds/README.md` + analysis
 - `CRAFT/Post-Craft/posts/material/durable-ai-observations.md`
-- `VENTURE/business-dev/bench-beacon/Offerings-note.md`, sessions/, brand-design/
+- `VENTURE/bench-beacon/Offerings-note.md`, sessions/, brand-design/
 - Post-Craft voice/style guides (`post-style.md`, `publishing.md`)
 - `VENTURE/living-archive.md` and health-harness notes
 
@@ -314,7 +314,7 @@ These findings only strengthen the feasibility of high-production-value output u
 ## References (Key Paths)
 
 - `COUNSEL/walk-talk/2026-06-15/summary.md#Walk 1`
-- `VENTURE/business-dev/bench-beacon/Offerings-note.md`
+- `VENTURE/bench-beacon/Offerings-note.md`
 - `CRAFT/Post-Craft/process/cross-posting.md`
 - `CRAFT/Post-Craft/posts/material/durable-ai-observations.md`
 - `~/Projects/atlas-style-guide/`
